@@ -1,0 +1,13 @@
+name: polymap3
+title: polymap3
+username:
+account: lukehayden
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 184661
+bundleId: 1305515
+url: https://lukehayden.shinyapps.io/polymap3/
+when: 1523010888.30181
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|servernew.r|serverold.r|uinew.r|uiold.r
